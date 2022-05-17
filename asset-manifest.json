@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reacthosting/static/css/main.c08731d1.css",
+    "main.js": "/reacthosting/static/js/main.5c2bc1a3.js",
+    "static/js/787.d3befce1.chunk.js": "/reacthosting/static/js/787.d3befce1.chunk.js",
+    "static/media/web2.jpg": "/reacthosting/static/media/web2.09be1e44b1417e8071fa.jpg",
+    "static/media/web3.jpg": "/reacthosting/static/media/web3.cf7b6bd11cab94294c3e.jpg",
+    "static/media/aa.jpg": "/reacthosting/static/media/aa.a9bcd0b968f20527a3eb.jpg",
+    "static/media/aliimage.png": "/reacthosting/static/media/aliimage.261312327a96e27d5879.png",
+    "static/media/web4.jpeg": "/reacthosting/static/media/web4.e7c8ad6903c1d11dd7c1.jpeg",
+    "static/media/web1.jpg": "/reacthosting/static/media/web1.97e8e0fbb2bf3eb47ebb.jpg",
+    "static/media/web5.jpg": "/reacthosting/static/media/web5.a241a11ac276782376b6.jpg",
+    "static/media/web6.jpeg": "/reacthosting/static/media/web6.57a72159ca0eac9eddf1.jpeg",
+    "static/media/awards.jpg": "/reacthosting/static/media/awards.e93d736865f1167963be.jpg",
+    "index.html": "/reacthosting/index.html",
+    "main.c08731d1.css.map": "/reacthosting/static/css/main.c08731d1.css.map",
+    "main.5c2bc1a3.js.map": "/reacthosting/static/js/main.5c2bc1a3.js.map",
+    "787.d3befce1.chunk.js.map": "/reacthosting/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c08731d1.css",
+    "static/js/main.5c2bc1a3.js"
+  ]
+}
