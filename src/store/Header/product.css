@@ -1,0 +1,29 @@
+.productdiv{
+    padding: 50px 100px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.producttext{
+    text-align: center;
+}
+.producttext{
+    width: 65%;
+}
+.carddivs{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+@media screen and (max-width:480px) {
+   .productdiv{
+       padding: 30px;
+   } 
+   .producttext{
+       display: none;
+   }
+}
